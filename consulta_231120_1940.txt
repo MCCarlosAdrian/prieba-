@@ -1,0 +1,27 @@
+Consulta1
+bulbasaur
+0.7mts
+6.9kg
+['grass', 'poison']
+
+Consulta2
+charmander
+0.6mts
+8.5kg
+['fire']
+
+Consulta3
+squirtle
+0.5mts
+9.0kg
+['water']
+
+Consulta4
+promedio peso: 8.133333333333333
+
+Consulta5
+promedio altura: 0.7
+
+Consulta6
+moda: grass
+
